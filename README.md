@@ -22,13 +22,13 @@ This system can measure sound to detect if baby cries or not, temperature of the
 *	2- Bluetooth Module HC05
 
 ## Software
-•	Arduino IDE
-•	Eclipse
-•	STM32 ST-LINK Utility
+*	Arduino IDE
+*	Eclipse
+*	STM32 ST-LINK Utility
 
 ## Programming Languages 
-•	C programming Language
-•	Arduino 
+*	C programming Language
+*	Arduino 
 
 ## Connections 
 There is no need to show all connections to make a copy of them they are very easy so I’ll show only some of them like 
