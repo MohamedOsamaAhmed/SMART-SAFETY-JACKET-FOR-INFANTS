@@ -1,5 +1,5 @@
 # SMART SAFETY JACKET FOR INFANTS
-![alt text](https://github.com/MohamedOsamaAhmed/SMART-SAFETY-JACKET-FOR-INFANTS/blob/main/1.JPG?raw=true)
+![alt text](https://github.com/MohamedOsamaAhmed/SMART-SAFETY-JACKET-FOR-INFANTS/blob/main/intro.JPG?raw=true)
 
 ## Summary
 system for ensuring safety for small baby within the home when the mother/guardian is busy with their stuff. Guarantee different detections like fire, gas leakage, temperature and the movement of the baby. proposed system is to make some improvements Global system for mobile communication (GSM) and receiver include parent’s mobile phone which is assigned for monitoring the surrounding conditions of the baby.
