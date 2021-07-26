@@ -9,17 +9,17 @@ This system can measure sound to detect if baby cries or not, temperature of the
 ![alt text](https://github.com/MohamedOsamaAhmed/SMART-SAFETY-JACKET-FOR-INFANTS/blob/main/main%20function.JPG?raw=true)
 
 ## Hardware components 
-•	Arduino Nano (Microcontroller)
-•	STM32 (Microcontroller)
-•	DHT11 (Temperature Sensor)
-•	MQ2 (Gas Sensor)
-•	Flame Detection Sensor Module (Fire Sensor)
-•	DAOKI 5PCS High Sensitivity Sound Microphone Sensor
-•	TCRT5000 infrared reflectance sensor
-•	Rain Sensor 
-•	Micro SD TF Memory Card Shield Module SPI Micro SD
-•	SIM800C (GSM Module) 
-•	2- Bluetooth Module HC05
+*	Arduino Nano (Microcontroller)
+*	STM32 (Microcontroller)
+*	DHT11 (Temperature Sensor)
+*	MQ2 (Gas Sensor)
+*	Flame Detection Sensor Module (Fire Sensor)
+*	DAOKI 5PCS High Sensitivity Sound Microphone Sensor
+*	TCRT5000 infrared reflectance sensor
+*	Rain Sensor 
+*	Micro SD TF Memory Card Shield Module SPI Micro SD
+*	SIM800C (GSM Module) 
+*	2- Bluetooth Module HC05
 
 ## Software
 •	Arduino IDE
